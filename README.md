@@ -4,17 +4,17 @@ This is a simple .Net Web API that provides two basic GET and one POST endpoints
 
 ## Requirements
 
-- .NET >= 6.0 SDK (8.0 is recommended)
-- Postman
+- .NET 8.0 SDK.
+- Postman.
 
 ## Run the API
 
-**Clone the repository**
+1- **Clone the repository**
 - run git clone https://github.com/MahmodSamir/CubicTask.git
 - Start the application and it should be accessible at your localhost port
 
-**Postman Tests**
-- Kindly, trying the following link to access requests immediately
+2- **Postman Tests**
+- Kindly, trying the following link to access requests immediately (check on port and application must be running)
      https://www.postman.com/bold-water-676631/workspace/cubictask/collection/23347925-0c796c4d-3a69-4d27-99d2-2a26ff56f470?action=share&creator=23347925
 
   *OR*
