@@ -1,0 +1,6 @@
+@CubicTask_HostAddress = http://localhost:5072
+
+GET {{CubicTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
